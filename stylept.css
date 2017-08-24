@@ -23,7 +23,8 @@ body{
     width: 70%;
 }
 p{  font-family:Adobe黑体Std;
-    font-size: 12pxp;
+    font-size: 2vw;
+    line-height: 1.5;
     color:white;}
 
 .bigbox{
