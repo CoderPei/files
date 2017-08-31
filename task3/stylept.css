@@ -1,0 +1,46 @@
+body{
+    background-color: rgb(104,205,213);
+    margin:0;padding:0;
+}
+.dom1{
+    width: 100%;
+}
+.head{
+    margin-top:3.125%;
+
+}
+.img1{margin-left: 5.46875%;}
+.box1{
+    width: 70%;
+    margin:5% auto;
+    text-align: center;
+
+}
+.box2 {
+    margin:10% auto 0 auto;
+    width: 70%;
+}
+p{  font-family:Adobe黑体Std;
+    font-size: 3vw;
+    line-height: 1.5;
+    color:white;
+text-align: center;}
+
+.footer{
+    width: 70%;
+    margin: 16% auto;
+    text-align: center;
+
+}
+.box3{
+    float:left;
+    margin-left:0;
+    margin-top:0;
+    padding-bottom: 5%;
+}
+.box4{float: right;
+    margin-right: 0;
+    margin-top: 0;
+    padding-left: 0.46px;
+    padding-bottom: 5%;
+}
