@@ -4,13 +4,12 @@ body{
     padding: 0;}
 .header{
     color: #fff;
-    font-family: "Adobe 黑体 Std R";
     font-size:32px;
     background-color:rgb(95,192,205);
     top: 0;
     left: 0;
     width: 100%;
-    padding: 3.16vw 0;
+    padding: 3vw 0;
     text-align: center;
 }
 .close{
@@ -27,13 +26,15 @@ body{
 }
 .username,.password{
     padding: 3vw 4.2vw;
-    border-style: solid;
     width:100%;
+    border-style: solid;
     border-width: 0 0 10px 0px;
     border-color: rgb(239, 240, 244);
     padding-left: 17vw;
     font-size: 32px;
     color:rgb(225,229,231);
+    outline:none;
+
 }
 input[type="text"]{
     background: url("images/t.png") no-repeat 1rem center;
@@ -47,7 +48,7 @@ input[type="password"]{
 }
 
 button{
-    padding: 5.11vw 0 5.11vw 0;
+    padding: 3.5vw 0 3.5vw 0;
     background-color:rgb(95,192,205);
     color: #fff;
     text-align: center;
